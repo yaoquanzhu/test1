@@ -3,7 +3,8 @@ package tt;
 public class test1 {
 
 	public static void main(String[] args) {
-		System.out.println("ÉÙ  ÊÇ·ñ");
+		System.out.println("ç¬¬äºŒæ¬¡ä¿®æ”¹");
+		System.out.println("asdfghjkl");
 
 	}
 
